@@ -22,12 +22,17 @@ namespace ConsoleApp4
             //linq3();
             //linq4();
             //linq5();
-           // linq6();
-           // linq7();
+            // linq6();
+            // linq7();
+            linq8();
           
 
         }
 
+        public static void linq8()
+        {
+
+        }
        
 
         public static void linq7()
